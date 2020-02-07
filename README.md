@@ -1,2 +1,4 @@
-# prueba
-prueba git en mi máquina
+prueba git en mi laptop
+nueva linea
+en readme
+con el add
