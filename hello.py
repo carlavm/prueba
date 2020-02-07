@@ -1,4 +1,5 @@
 def hello():
-    print('you can do this sht')
+    print('heyyy')
+    print('new')
 
 hello()
