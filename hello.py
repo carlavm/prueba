@@ -1,4 +1,4 @@
 def hello():
-    print('hola cvm')
+    print('you can do this sht')
 
 hello()
