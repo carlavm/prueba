@@ -1,6 +1,6 @@
 def hello():
     print('heyyy')
     print('new')
-    print('zerooo')
+    print('queda el remoto')
 
 hello()
